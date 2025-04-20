@@ -54,7 +54,7 @@ Primary Stakeholders: **Airbnb Strategy and Management Firms**
 
 > 📂 Tableau Dashboard File: `Airbnb-Dashboard.twbx`
 
-![Dashboard Preview](image/Dashboard.png)
+<img width="1168" alt="Dashboard_image" src="https://github.com/user-attachments/assets/069640a3-e14b-4b51-85cd-03e7c63851b7" />
 
 ---
 
@@ -79,14 +79,7 @@ Primary Stakeholders: **Airbnb Strategy and Management Firms**
 
 - **Data Source**: Inside Airbnb
 - **Tool Used**: Tableau (Dashboard)
-- **Language**: SQL (for data extraction and transformation)
 - **Visualization**: Tableau Workbook (`.twbx`)
-
----
-
-## 🙏 Acknowledgements
-
-Thanks to the Inside Airbnb project for making rich, publicly available datasets to support data transparency and smart tourism planning.
 
 ---
 
